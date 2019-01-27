@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "question": "How many titles LeBron won?",
+        "answers": [
+            { 
+                "text": "one",
+                "clicked": false
+            },
+            {
+                "text": "three",
+                "clicked": false
+            },
+            {
+                "text": "none",
+                "clicked": false
+            },
+            {
+                "text": "seven",
+                "clicked": false
+            }
+        ],
+        "correct": 1
+    },
+    {
+        "id": 2,
+        "question": "Where from is Luka Doncic?",
+        "answers": [
+            { 
+                "text": "Slovenija",
+                "clicked": false
+            },
+            {
+                "text": "USA",
+                "clicked": false
+            },
+            {
+                "text": "Serbia",
+                "clicked": false
+            },
+            {
+                "text": "Hrvatska",
+                "clicked": false
+            }
+        ],
+        "correct": 0
+    },
+    {
+        "id": 3,
+        "question": "In which club Bogdan started his career?",
+        "answers": [
+            { 
+                "text": "Sacramento",
+                "clicked": false
+            },
+            {
+                "text": "Fener",
+                "clicked": false
+            },
+            {
+                "text": "Buducnost",
+                "clicked": false
+            },
+            {
+                "text": "Zitko Basket",
+                "clicked": false
+            }
+        ],
+        "correct": 3
+    }
+]
